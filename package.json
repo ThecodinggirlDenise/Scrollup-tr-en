@@ -1,0 +1,22 @@
+{
+  "name": "scrollup-tr-en",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i18next": "^24.0.2",
+    "i18next-browser-languagedetector": "^8.0.0",
+    "i18next-http-backend": "^3.0.1",
+    "next": "^15.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^13.5.0",
+    "scrollup-tr-en": "file:"
+  }
+}
